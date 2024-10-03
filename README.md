@@ -1,7 +1,6 @@
 # Teemo CLI
 
-[![Go Version](https://img.shields.io/github/go-mod/go-version/your-username/project-name)](https://golang.org/)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/your-username/project-name/go.yml)](https://github.com/your-username/project-name/actions)
+[![Go Version](https://img.shields.io/github/go-mod/go-version/iagonc/teemo-cli)](https://golang.org/)
 
 ## Overview
 
