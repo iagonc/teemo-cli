@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/models"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/utils"
+	"github.com/iagonc/teemo-cli/internal/models"
+	"github.com/iagonc/teemo-cli/internal/utils"
 )
 
 func (s *ResourceUsecase) ListResources(ctx context.Context) ([]models.Resource, error) {

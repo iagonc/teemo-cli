@@ -1,8 +1,8 @@
 package resource
 
 import (
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/config"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/utils"
+	"github.com/iagonc/teemo-cli/internal/config"
+	"github.com/iagonc/teemo-cli/internal/utils"
 
 	"go.uber.org/zap"
 )

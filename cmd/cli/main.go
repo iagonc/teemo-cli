@@ -7,11 +7,11 @@ import (
 	"github.com/spf13/cobra"
 	"go.uber.org/zap"
 
-	"github.com/iagonc/jorge-cli/cmd/cli/commands"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/config"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/usecase/network"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/usecase/resource"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/utils"
+	"github.com/iagonc/teemo-cli/internal/commands"
+	"github.com/iagonc/teemo-cli/internal/config"
+	"github.com/iagonc/teemo-cli/internal/usecase/network"
+	"github.com/iagonc/teemo-cli/internal/usecase/resource"
+	"github.com/iagonc/teemo-cli/internal/utils"
 )
 
 func main() {
@@ -38,7 +38,7 @@ func main() {
 
 	// Set up the root command
 	var rootCmd = &cobra.Command{
-		Use:     "jorge-cli",
+		Use:     "teemo-cli",
 		Short:   "Jorge CLI - A friendly network diagnostic and resource management tool",
 		Long:    "A command-line tool to perform network diagnostics and manage resources via API.",
 		Version: cfg.Version,

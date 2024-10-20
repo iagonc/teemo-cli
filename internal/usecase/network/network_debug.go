@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/models"
+	"github.com/iagonc/teemo-cli/internal/models"
 	"go.uber.org/zap"
 )
 

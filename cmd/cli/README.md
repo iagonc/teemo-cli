@@ -38,8 +38,8 @@ This CLI tool allows you to interact with an API for managing resources. It prov
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/iagonc/jorge-cli.git
-   cd jorge-cli/cmd/cli
+   git clone https://github.com/iagonc/teemo-cli.git
+   cd teemo-cli/cmd/cli
    ```
 2. **Build the CLI**
 

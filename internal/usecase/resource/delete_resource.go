@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"strconv"
 
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/models"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/utils"
+	"github.com/iagonc/teemo-cli/internal/models"
+	"github.com/iagonc/teemo-cli/internal/utils"
 	"go.uber.org/zap"
 )
 

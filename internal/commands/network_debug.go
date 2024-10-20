@@ -8,8 +8,8 @@ import (
 
 	"github.com/briandowns/spinner"
 	"github.com/charmbracelet/lipgloss"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/usecase/network"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/utils"
+	"github.com/iagonc/teemo-cli/internal/usecase/network"
+	"github.com/iagonc/teemo-cli/internal/utils"
 	"github.com/spf13/cobra"
 )
 

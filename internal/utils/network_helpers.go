@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/charmbracelet/lipgloss"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/models"
+	"github.com/iagonc/teemo-cli/internal/models"
 )
 
 // FormatAndDisplayNetworkDebugResult formats and displays the network debug results in a user-friendly manner

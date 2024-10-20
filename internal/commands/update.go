@@ -6,8 +6,8 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/spf13/cobra"
 
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/usecase/resource"
-	"github.com/iagonc/jorge-cli/cmd/cli/internal/utils"
+	"github.com/iagonc/teemo-cli/internal/usecase/resource"
+	"github.com/iagonc/teemo-cli/internal/utils"
 
 	"go.uber.org/zap"
 )
